@@ -1,6 +1,6 @@
 # Destiny
 
-- This project is made using HTML5 and CSS3 and was created with the aim of applying modern web design techniques. Various techniques were used in the project to provide an aesthetic appearance with responsive layouts, animations and CSS.
+- This project is made using HTML5, CSS3 and JavaScript and was created with the aim of applying modern web design techniques. Various techniques were used in the project to provide an aesthetic appearance with responsive layouts, animations and CSS.
 
 # Features
 
